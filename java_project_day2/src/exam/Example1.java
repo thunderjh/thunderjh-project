@@ -12,7 +12,7 @@ public class Example1 {
 		Scanner input = new Scanner(System.in);
 
 
-		System.out.print("한번 더 해봅니다");
+		System.out.print("한번 더 해봅니dfsdfsdf다");
 		System.out.print("한번 더 해봅니다");
 		System.out.print("한번 더 해봅니다");
 		System.out.print("test에서 바꾼 내용");
