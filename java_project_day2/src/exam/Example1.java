@@ -13,6 +13,7 @@ public class Example1 {
 
 
 		System.out.print("한번 더 해봅니다");
+		System.out.print("한번 더 해봅니다");
 		System.out.print("test에서 바꾼 내용");
 		System.out.print("아오 어려워");
 		System.out.print("아오 어려워");
