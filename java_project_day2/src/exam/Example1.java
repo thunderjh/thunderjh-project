@@ -11,6 +11,9 @@ public class Example1 {
 
 		Scanner input = new Scanner(System.in);
 
+
+		System.out.print("숫자 1개를 입력하시오");
+		System.out.print("숫자 1개를 입력하시오");
 		System.out.print("숫자 1개를 입력하시오");
 		int num1 = input.nextInt();
 
