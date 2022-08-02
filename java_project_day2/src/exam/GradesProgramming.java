@@ -12,7 +12,7 @@ public class GradesProgramming {
 		 */
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("1-99까지의 정수를 입력하시오");
+		System.out.println("1-9dfdd9까지의 정수를 입력하시오");
 		System.out.println("1-99까지의 정수를 입력하시오");
 		int x = scanner.nextInt();
 
